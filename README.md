@@ -1,4 +1,5 @@
-# strange-awakening-map-editor
+# Strange Awakening Map Editor
+
 A map editor for our game Strange Awakening.
 
 ![image](https://github.com/motzmartin/strange-awakening-map-editor/assets/94078957/73eaef2c-0bf3-4725-b320-04c9181d55fe)
