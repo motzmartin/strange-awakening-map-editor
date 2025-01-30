@@ -10,7 +10,7 @@ Default mode : `arrows` to move the map
 - `g` enable grid
 - `e` erase mode
 - `f` foreground editor mode
-- `c` collisions editor mode (arrows to change size of collision box)
-- `t` test mode (arrows to move the player)
+- `c` collisions editor mode (`arrows` to change size of collision box)
+- `t` test mode (`arrows` to move the player)
 - `l` load `data/levels/map.dat`
 - `s` save level in `data/levels/map.dat`
