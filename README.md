@@ -5,7 +5,8 @@ A map editor for our game Strange Awakening.
 
 # Controls
 
-default mode (arrows to move the map)
+Default mode : arrows to move the map
+
 - `g` enable grid
 - `e` erase mode
 - `f` foreground editor mode
